@@ -1,0 +1,5 @@
+.idea
+.env
+.cache
+__pycache__
+my_played_tracks.sqlite
